@@ -30,7 +30,7 @@ function list(type, channelList, webClient) {
 
         });
       }
-      
+
       // Exit
       return test(response.channel.name, channelList, type, next);
     });
