@@ -1,0 +1,32 @@
+{
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "code": "^2.2.0",
+    "eslint": "^2.7.0",
+    "lab": "^10.3.1",
+    "sinon": "^1.17.3"
+  },
+  "engines": {
+    "node": "^5.0.0"
+  },
+  "scripts": {
+    "test": "lab -vc"
+  },
+  "name": "slacky-middleware-white-black-list",
+  "description": "### API",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slacky-bot/slacky-middleware-white-black-list.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slacky-bot/slacky-middleware-white-black-list/issues"
+  },
+  "homepage": "https://github.com/slacky-bot/slacky-middleware-white-black-list#readme"
+}
