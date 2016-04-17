@@ -21,7 +21,7 @@
   },
   "name": "slacky-middleware-white-black-list",
   "description": "### API",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/slacky-bot/slacky-middleware-white-black-list.git"
