@@ -3,6 +3,9 @@
   "directories": {
     "test": "test"
   },
+  "peerDependencies": {
+    "@slack/client": "^2.3.0"
+  },
   "dependencies": {},
   "devDependencies": {
     "code": "^2.2.0",
